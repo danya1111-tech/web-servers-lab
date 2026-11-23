@@ -1,6 +1,4 @@
-git init
-git add .
-git commit -m "Первая версия проекта"
-git branch -M main
-git remote add origin https://github.com/danya1111-tech/web-servers-lab.git
-git push -u origin main
+Привет
+Обо мне: Я студент колледжа АлтГТУ, изучаю веб-разработку
+Мои цели: научиться делать крутые сайты
+Мои навыки: языки программирования "HTML" "Phyton" "javaScript"
